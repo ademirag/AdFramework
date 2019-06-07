@@ -1,7 +1,6 @@
 /*
 
-Stack navigation where screens added comes from right to the left,
-with 'back' enabled.
+Fade in the next screen on current one.
 
 */
 
