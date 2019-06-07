@@ -11,4 +11,4 @@ Builtin Animation
 Utils & Device Spesific Cures
 
 ## Documentation
-It is here[http://addocs.asimdemirag.com]
+[It is here](http://addocs.asimdemirag.com)
